@@ -24,7 +24,7 @@
 <!--<details >
  <summary>👩 </summary>  -->
 <h3>About Me</h3>
-      I am also a ServiceNow Developer and I have the attitude of a learner and the thinking of an optimist, engraved inside me. <br>
+      I am a ServiceNow Developer and I have the attitude of a learner and the thinking of an optimist, engraved inside me. <br>
       I wish to be a leader in my community of people and a desire to contribute to environment and society.<br>
       Currently, aim is to become a globally competent individual with programming skills along with business leadership/entrepreneurship skills.
       <hr>
