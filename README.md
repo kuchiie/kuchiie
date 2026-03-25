@@ -1,7 +1,7 @@
  [![@kuchiie's Holopin board](https://holopin.io/api/user/board?user=kuchiie)](https://holopin.io/@kuchiie)
  <h1 align="center"> 
     <img src="Assets/hello4.gif" alt="hello4-gif"> <br >I'm 
-       <a href="https://www.linkedin.com/in/khushboo-jennifer-9729ba131/">Khushboo Jenifer👋 
+       <a href="www.linkedin.com/in/khushboo-bharad">Khushboo Singh👋 
          </a>.Welcome to my GitHub! 🤗
   </h1>
 
@@ -24,9 +24,7 @@
 <!--<details >
  <summary>👩 </summary>  -->
 <h3>About Me</h3>
-      I am also working on my Competitive Coding Skills.My interest lies in Web Development, Application Development and CyberSecurity.
-      I aim to be an Opensource contributor. 
-      I have the attitude of a learner and the thinking of an optimist, engraved inside me. <br>
+      I am also a ServiceNow Developer and I have the attitude of a learner and the thinking of an optimist, engraved inside me. <br>
       I wish to be a leader in my community of people and a desire to contribute to environment and society.<br>
       Currently, aim is to become a globally competent individual with programming skills along with business leadership/entrepreneurship skills.
       <hr>
@@ -70,15 +68,6 @@
 </details>
 <p align="center"> <img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/EgUx.gif" alt="codergif" /> </p>
 
-
-  
-<!--
-- I’m currently working on my pathway to **Cybersecurity Career**.  🔭 
-- I’m currently learning  🌱  Penetration and Vulnerable Testing*, CyberSecurity and how to **build up my profile's [README.md](https://github.com/kuchiie/KhushbooJenifer/tree/master/README.md)** 💪. 
-- I’m also looking to collaborate on **Open Sourced** Projects 👯  on *Web Devlopment* and *Python* 🐍 related Projects.
-- I’m looking for help with *Machine Learning & Data Science.* 🤔 
-- Ask me about **anything**, **anytime**! 💬 -->
-
 - Fun fact: 86% of people try to plus in their USB devices upside down. That makes me feel a lot better about getting it wrong every time! ⚡ 
 
 <br>
@@ -88,7 +77,7 @@ Connect with me<img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/H
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" width="12%">](https://www.facebook.com/kuchiie/)
 &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="11%">](https://www.linkedin.com/in/khushboo-jennifer-9729ba131/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="11%">](https://www.linkedin.com/in/khushboo-bharad/) 
 &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="instagram logo" width="12%">](https://www.instagram.com/kuchiie/) 
 &nbsp;&nbsp;
